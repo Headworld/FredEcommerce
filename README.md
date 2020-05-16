@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # ecommerce
 
 > To develop ecommerce app
+=======
+# Ecommerce_test
+
+> To replicate an ecommerce shopping site 
+>>>>>>> aa6bbdbf58bee665ad02fec45ee33c08d96947cb
 
 ## Build Setup
 
